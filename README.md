@@ -11,8 +11,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mateo-tognalli&color=blueviolet&style=for-the-badge)
 
 📍 **San Miguel de Tucumán, Argentina**  
-🎓 **University Programming Technician — UTN-FRT**
-
+🎓 **University Programming Technician — UTN-FRT**  
+🚀 **Open to New Opportunities**
 </div>
 
 ---
@@ -242,30 +242,20 @@ Aplicación de consola desarrollada para gestión automatizada de evaluaciones.
 
 ---
 
-## 📫 Contacto
+## 📫 Disponibilidad
 
-<div align="center">
-
-📧 **Email:** mateotognali@hotmail.com  
-
-💼 **LinkedIn:** [mateo-tognalli](https://linkedin.com/in/mateo-tognalli)  
-📍 **Ubicación:** San Miguel de Tucumán, Argentina
-
-### Disponibilidad
+<div>
 
 ✅ Presencial  
 ✅ Remoto  
-✅ Híbrido
+✅ Híbrido  
+✅ Full-time  
 
 </div>
 
 ---
 
 <div align="center">
-
-### 🚀 Open to opportunities as Full Stack Developer
-
-📧 **mateotognali@hotmail.com**
 
 ⭐️ From [mateo-tognalli](https://github.com/mateo-tognalli)
 

@@ -208,12 +208,12 @@ Aplicación de consola desarrollada para gestión automatizada de evaluaciones.
 ## ⚙️ Áreas de Especialización
 
 ✅ Desarrollo Full Stack  
-✅ Aplicaciones de escritorio con C# y .NET  
-✅ Desarrollo Backend y APIs REST 
+✅ Desarrollo de aplicaciones de escritorio con C# y .NET  
+✅ Desarrollo Backend y APIs REST  
 ✅ Diseño de bases de datos relacionales  
-✅ Sistemas administrativos y de gestión  
+✅ Desarrollo de sistemas administrativos y de gestión  
 ✅ Dashboards y visualización de datos  
-✅ Validación y seguridad básica de aplicaciones  
+✅ Validación de datos y seguridad básica de aplicaciones  
 ✅ Documentación técnica y análisis funcional  
 
 ---
